@@ -23,4 +23,4 @@ This is a Streamlit-based application that allows users to upload a PDF and ask 
 pip install -r requirements.txt
 streamlit run app.py
 ```
-![Screenshot (103)] ()
+![Screenshot (103)] (Screenshot (98).png)
