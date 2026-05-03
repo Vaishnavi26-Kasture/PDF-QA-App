@@ -27,9 +27,9 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-![Screenshot (98)] (https://github.com/Vaishnavi26-Kasture/PDF-QA-App/blob/main/Screenshot%20(98).png)
+![Screenshot (98)](https://github.com/Vaishnavi26-Kasture/PDF-QA-App/blob/main/Screenshot%20(98).png)
 
 
 
 
-![Screenshot (103)] (https://github.com/Vaishnavi26-Kasture/PDF-QA-App/blob/main/Screenshot%20(103).png)
+![Screenshot (103)](https://github.com/Vaishnavi26-Kasture/PDF-QA-App/blob/main/Screenshot%20(103).png)
