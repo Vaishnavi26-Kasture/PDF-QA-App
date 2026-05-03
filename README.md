@@ -23,4 +23,13 @@ This is a Streamlit-based application that allows users to upload a PDF and ask 
 pip install -r requirements.txt
 streamlit run app.py
 ```
-![Screenshot (103)] (Screenshot (98).png)
+
+
+## 📸 Screenshots
+
+![Screenshot (98)] (https://github.com/Vaishnavi26-Kasture/PDF-QA-App/blob/main/Screenshot%20(98).png)
+
+
+
+
+![Screenshot (103)] (https://github.com/Vaishnavi26-Kasture/PDF-QA-App/blob/main/Screenshot%20(103).png)
